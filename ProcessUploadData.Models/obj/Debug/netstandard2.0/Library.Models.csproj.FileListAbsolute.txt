@@ -1,0 +1,9 @@
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Models\bin\Debug\netstandard2.0\Library.Models.deps.json
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Models\bin\Debug\netstandard2.0\Library.Models.dll
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Models\bin\Debug\netstandard2.0\Library.Models.pdb
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Models\obj\Debug\netstandard2.0\Library.Models.csprojAssemblyReference.cache
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Models\obj\Debug\netstandard2.0\Library.Models.AssemblyInfoInputs.cache
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Models\obj\Debug\netstandard2.0\Library.Models.AssemblyInfo.cs
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Models\obj\Debug\netstandard2.0\Library.Models.csproj.CoreCompileInputs.cache
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Models\obj\Debug\netstandard2.0\Library.Models.dll
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Models\obj\Debug\netstandard2.0\Library.Models.pdb

@@ -1,0 +1,231 @@
+﻿.navbar-light .navbar-brand {
+    color: white;
+    width: 7em;
+}
+
+.navbar-nav {
+    display: inline-block;
+}
+
+.navbar-collapse.collapse.d-sm-inline-flex.flex-sm-row-reverse {
+    margin-left: 0em;
+    width: 20em;
+    display: inline-block !important;
+}
+
+.nav-item {
+    width: 13em;
+}
+.navbar.navbar-expand-sm.navbar-toggleable-sm.navbar-light.bg-white.border-bottom.box-shadow.mb-3 {
+    width: 200px;
+    display: table-cell;
+    vertical-align: top;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    padding-left: 18px;
+}
+header {
+    height: 100%;
+    display: table;
+    width: 200px;
+    margin: 0 auto;
+    position: fixed;
+    z-index: 210;
+    background-color: #090909;
+}
+.navbar > .container, .navbar > .container-fluid {
+    display: inline-block;
+    margin-top: 8em;
+    width: 14em;
+}
+.border-bottom {
+    border-bottom: 0px solid #dee2e6 !important;
+}
+.InputBox {
+    -webkit-border-radius: 35px;
+    background-color: rgba(24, 26, 27, 0.15);
+    background-image: none;
+    display: -webkit-flex;
+    padding: 11px 15px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 17px;
+    width: 31%;
+    letter-spacing: 2px;
+    cursor: pointer;
+    color: white;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+.pb-3 {
+    padding-top: 8em;
+    padding-left: 0em;
+    width: 85em;
+}
+table {
+    font-family: 'Mukta', sans-serif;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 100%;
+    border-left: solid 1px rgba(255,255,255,0.1);
+    border-right: solid 1px rgba(255,255,255,0.1);
+    border-bottom: solid 1px rgba(255,255,255,0.1);
+}
+
+tr {
+    color: white;
+    background-color: black;
+}
+td, th {
+    border-bottom: solid 1px rgba(255,255,255,0.1);
+    text-align: left;
+    padding: 8px;
+}
+.col-sm-10 {
+    margin: 0 auto;
+}
+
+.text-center {
+    margin: 0 auto;
+    padding-top:0em;
+}
+
+h1 {
+    color: white;
+    font-family: 'Mukta', sans-serif;
+}
+h3 {
+    font-family: 'Mukta', sans-serif;
+    font-size: 20px;
+}
+
+h8 {
+    font-family: 'Mukta', sans-serif;
+    font-size: 15px;
+}
+.CustomBody {
+    background: black;
+}
+#BookName {
+    -webkit-border-radius: 35px;
+    color: white;
+    display: -webkit-flex;
+    padding: 11px 15px;
+    background-color: rgba(24, 26, 27, 0.15);
+}
+
+#Count {
+    background-color: rgba(24, 26, 27, 0.15);
+    -webkit-border-radius: 35px;
+    margin-bottom: 20px;
+    color: white;
+    display: -webkit-flex;
+    padding: 11px 15px;
+}
+.btn.btn-primary {
+    background: radial-gradient(circle, rgb(144, 3, 10) 0%, rgb(112, 0, 0) 100%);
+    border: none;
+    color: #fff;
+    padding: 11px 15px;
+    text-transform: uppercase;
+    font-family: 'Mukta', sans-serif;
+    font-size: 17px;
+    width: 100%;
+    margin-top: 10px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    -webkit-border-radius: 35px;
+}
+p{
+    color:white;
+
+}
+a.text-dark:focus, a.text-dark:hover {
+    color: #c1c1c1 !important;
+    font-family: 'Mukta', sans-serif;
+}
+.navbar-light .navbar-brand:hover {
+    color: rgba(242, 242, 235, 0.9);
+}
+.nav-link:hover {
+    color: rgba(238, 231, 231, 0.7) !important;
+}
+.btn:hover {
+    color: #c5c6c8f2;
+    text-decoration: none;
+}
+.btn-primaryD {
+    background: radial-gradient(circle, rgb(144, 3, 10) 0%, rgb(112, 0, 0) 100%);
+    border: none;
+    -webkit-border-radius: 35px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 13px;
+    text-transform: uppercase;
+    padding: 11px 15px;
+    font-weight: bold;
+    color: white;
+}
+.form-group.row {
+    width: 100%;
+    margin-bottom: 0em;
+}
+.InputBoxD {
+    width: auto;
+    float: left;
+    background-color: rgba(24, 26, 27, 0);
+    background-image: none;
+    margin-top: 0em;
+    margin-right: 0.5em;
+    color: white;
+}
+a.navbar-brand {
+    font-family: 'Mukta', sans-serif;
+}
+
+.border-bottom {
+    border-bottom: 0px solid #dee2e6 !important;
+}
+
+.bg-white {
+    background-color: transparent !important;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+.form-group.row {
+    width: 100%;
+}
+.rowInput {
+    -webkit-border-radius: 35px;
+    margin-bottom: 20px;
+    color: white;
+    display: -webkit-flex;
+    padding: 11px 15px;
+    background-color: rgba(24, 26, 27, 0.15);
+    width: 95%;
+}
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.text-dark {
+    color: white !important;
+    font-size: 15px;
+}
+
+.text-muted {
+    color: white;
+}
+
+.border-top {
+    border-top: 0px solid #dee2e6 !important;
+}
+
+.footer {
+    background: transparent;
+    display: none;
+}
+

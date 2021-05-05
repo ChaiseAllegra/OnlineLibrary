@@ -1,0 +1,33 @@
+﻿@page
+@model Process_Upload_Data.Pages.AddNewBookModel
+@{
+}
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/StyleSheet.css">
+</head>
+<div class="text-center">
+    <h1>Add A New Book</h1>
+    <form method="post" cllass="mt-3" enctype="multipart/form-data">
+        <div class="col-sm-10">
+            <div class="TextBox">
+                <input asp-for="BookName" type="text" placeholder="BookName" class="InputBox" />
+            </div>
+            <div class="TextBox">
+                <input asp-for="BookDesc" type="text" placeholder="Description" class="InputBox" />
+            </div>
+            <div class="TextBox">
+                <input asp-for="Author" type="text" placeholder="Author" class="InputBox" />
+            </div>
+            <div class="TextBox">
+                <input asp-for="Genre" type="text" placeholder="Genre" class="InputBox" />
+            </div>
+            <div class="TextBox">
+                <input asp-for="Count" type="text" placeholder="Count" class="InputBox" />
+            </div>
+        </div>
+        <div class="col-sm-10" style="width: 27%;">
+            <button type="submit" class="btn btn-primary">Add New Book</button>
+        </div>
+    </form>
+</div>

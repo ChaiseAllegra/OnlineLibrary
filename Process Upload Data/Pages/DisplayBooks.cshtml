@@ -1,0 +1,63 @@
+﻿@page
+@model Process_Upload_Data.Pages.DisplayFilterDataModel
+@{
+}
+<head>
+    <link rel="stylesheet" href="~/css/StyleSheet.css">
+
+</head>
+<div class="CustomBody">
+    <h1 style="margin-bottom: 1em;">Books</h1>
+
+    <div class="form-group row">
+        <form method="get" cllass="mt-3" enctype="multipart/form-data" style=" margin-left: 1em;">
+            <div class="InputBoxD">
+                <input class="rowInput" asp-for="BookNameSearch" type="text" placeholder="Name Of Book" style=" padding: 5px 6px;" />
+            </div>
+            <div class="InputBoxD">
+                <input class="rowInput" asp-for="AuthorSearch" type="text" placeholder="Author" style=" padding: 5px 6px;" />
+            </div>
+            <div class="InputBoxD">
+                <input class="rowInput" asp-for="BookDescSearch" type="text" placeholder="Description" style=" padding: 5px 6px;" />
+            </div>
+            <div class="InputBoxD">
+                <input class="rowInput" asp-for="GenreSearch" type="text" placeholder="Genre" style=" padding: 5px 6px;" />
+            </div>
+            <div class="ButtonA">
+                <button type="submit" class="btn btn-primaryD">Search</button>
+            </div>
+        </form>
+    </div>
+    <table>
+        <tr style="background: linear-gradient(90deg, rgb(101, 0, 5) 0%, rgba(144,3,10,0.89) 100%);">
+            <th>Name</th>
+            <th>Description</th>
+            <th>Author</th>
+            <th>Genre</th>
+            <th>Count</th>
+        </tr>
+        @foreach (var book in Model.BookList)
+        {
+            <tr>
+                <td><h3>@book.bookName</h3></td>
+                <td><h8>@book.bookDesc</h8></td>
+                <td><h3>@book.author</h3></td>
+                <td><h3>@book.genre</h3></td>
+                <td><h3>@book.count</h3></td>
+            </tr>
+        }
+    </table>
+    <div class="form-group row">
+        <form method="post" cllass="mt-3" enctype="multipart/form-data" style=" margin-left: 1em;margin-top:1em;">
+            <div class="InputBoxD">
+                <input asp-for="BookName" type="text" placeholder="Name Of Book" style=" padding: 5px 6px;" />
+            </div>
+            <div class="InputBoxD">
+                <input asp-for="Count" type="text" placeholder="Count" style=" padding: 5px 6px;" />
+            </div>
+            <div class="ButtonA">
+                <button type="submit" class="btn btn-primaryD">Check Out A Book</button>
+            </div>
+        </form>
+    </div>
+</div>

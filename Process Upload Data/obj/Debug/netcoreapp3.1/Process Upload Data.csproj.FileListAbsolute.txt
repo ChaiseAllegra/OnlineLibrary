@@ -1,0 +1,86 @@
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Process Upload Data.exe
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Process Upload Data.deps.json
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Process Upload Data.runtimeconfig.json
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Process Upload Data.runtimeconfig.dev.json
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Process Upload Data.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Process Upload Data.pdb
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Process Upload Data.Views.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Process Upload Data.Views.pdb
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.csprojAssemblyReference.cache
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.AssemblyInfoInputs.cache
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.AssemblyInfo.cs
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.RazorAssemblyInfo.cache
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.RazorAssemblyInfo.cs
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.TagHelpers.input.cache
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.TagHelpers.output.cache
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.RazorCoreGenerate.cache
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.RazorTargetAssemblyInfo.cache
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.RazorTargetAssemblyInfo.cs
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.Views.pdb
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\staticwebassets\Process Upload Data.StaticWebAssets.Manifest.cache
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\staticwebassets\Process Upload Data.StaticWebAssets.xml
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.pdb
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.genruntimeconfig.cache
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.csproj.CopyComplete
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Razor\Pages\Upload.cshtml.g.cs
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\ProcessUploadData.Models.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\ProcessUploadData.Services.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\ProcessUploadData.Models.pdb
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\ProcessUploadData.Services.pdb
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Razor\Pages\DisplayFilterData.cshtml.g.cs
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Razor\Pages\FilterData.cshtml.g.cs
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.csproj.CoreCompileInputs.cache
+C:\Users\Chaise\source\repos\Process Upload Data\Process Upload Data\obj\Debug\netcoreapp3.1\Process Upload Data.MvcApplicationPartsAssemblyInfo.cache

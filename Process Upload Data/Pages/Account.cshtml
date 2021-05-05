@@ -1,0 +1,23 @@
+﻿@page
+@model Process_Upload_Data.Pages.AccountModel
+@{
+}
+<head>
+    <link rel="stylesheet" href="~/css/StyleSheet.css">
+</head>
+<h1 style="margin-bottom: 1em;">Your Checked Out Books</h1>
+<table>
+    <tr style="background: linear-gradient(90deg, rgb(101, 0, 5) 0%, rgba(144,3,10,0.89) 100%);">
+        <th>Name</th>
+        <th>Book Title</th>
+        <th>Count</th>
+    </tr>
+    @foreach (var rec in Model.UserBooks)
+    {
+        <tr>
+            <td><h3>@rec.name</h3></td>
+            <td><h8>@rec.BookTitle</h8></td>
+            <td><h3>@rec.count</h3></td>
+        </tr>
+    }
+</table>

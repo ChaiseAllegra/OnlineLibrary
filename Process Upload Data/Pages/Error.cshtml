@@ -1,0 +1,23 @@
+﻿@page
+@model ErrorModel
+@{
+    ViewData["Title"] = "Error";
+}
+<head>
+    <link rel="stylesheet" href="~/css/StyleSheet.css">
+</head>
+<h1 class="text-danger">Error.</h1>
+<h2 class="text-danger" style="color:white;">An error occurred while processing your request.</h2>
+
+@if (Model.ShowRequestId)
+{
+    <p>
+        <strong>Request ID:</strong> <code>@Model.RequestId</code>
+    </p>
+}
+<p>
+  Please click one of the linkes below to continue.
+</p>
+
+<a asp-page="/Index" class="btn btn-primary" style="width:20%;">Log In Page</a>
+<a asp-page="/DisplayBooks" class="btn btn-primary" style="width:20%;">View Books</a>

@@ -1,0 +1,12 @@
+C:\Users\Chaise\source\repos\Process Upload Data\ProcessUploadData.Services\bin\Debug\netstandard2.0\ProcessUploadData.Services.deps.json
+C:\Users\Chaise\source\repos\Process Upload Data\ProcessUploadData.Services\bin\Debug\netstandard2.0\ProcessUploadData.Services.dll
+C:\Users\Chaise\source\repos\Process Upload Data\ProcessUploadData.Services\bin\Debug\netstandard2.0\ProcessUploadData.Services.pdb
+C:\Users\Chaise\source\repos\Process Upload Data\ProcessUploadData.Services\bin\Debug\netstandard2.0\ProcessUploadData.Models.dll
+C:\Users\Chaise\source\repos\Process Upload Data\ProcessUploadData.Services\bin\Debug\netstandard2.0\ProcessUploadData.Models.pdb
+C:\Users\Chaise\source\repos\Process Upload Data\ProcessUploadData.Services\obj\Debug\netstandard2.0\ProcessUploadData.Services.csprojAssemblyReference.cache
+C:\Users\Chaise\source\repos\Process Upload Data\ProcessUploadData.Services\obj\Debug\netstandard2.0\ProcessUploadData.Services.AssemblyInfoInputs.cache
+C:\Users\Chaise\source\repos\Process Upload Data\ProcessUploadData.Services\obj\Debug\netstandard2.0\ProcessUploadData.Services.AssemblyInfo.cs
+C:\Users\Chaise\source\repos\Process Upload Data\ProcessUploadData.Services\obj\Debug\netstandard2.0\ProcessUploadData.Services.csproj.CopyComplete
+C:\Users\Chaise\source\repos\Process Upload Data\ProcessUploadData.Services\obj\Debug\netstandard2.0\ProcessUploadData.Services.dll
+C:\Users\Chaise\source\repos\Process Upload Data\ProcessUploadData.Services\obj\Debug\netstandard2.0\ProcessUploadData.Services.pdb
+C:\Users\Chaise\source\repos\Process Upload Data\ProcessUploadData.Services\obj\Debug\netstandard2.0\ProcessUploadData.Services.csproj.CoreCompileInputs.cache

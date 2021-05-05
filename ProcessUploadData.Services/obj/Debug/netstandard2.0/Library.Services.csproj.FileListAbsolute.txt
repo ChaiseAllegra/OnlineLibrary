@@ -1,0 +1,12 @@
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Services\bin\Debug\netstandard2.0\Library.Services.deps.json
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Services\bin\Debug\netstandard2.0\Library.Services.dll
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Services\bin\Debug\netstandard2.0\Library.Services.pdb
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Services\bin\Debug\netstandard2.0\Library.Models.dll
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Services\bin\Debug\netstandard2.0\Library.Models.pdb
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Services\obj\Debug\netstandard2.0\Library.Services.csprojAssemblyReference.cache
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Services\obj\Debug\netstandard2.0\Library.Services.AssemblyInfoInputs.cache
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Services\obj\Debug\netstandard2.0\Library.Services.AssemblyInfo.cs
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Services\obj\Debug\netstandard2.0\Library.Services.csproj.CoreCompileInputs.cache
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Services\obj\Debug\netstandard2.0\Library.Services.csproj.CopyComplete
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Services\obj\Debug\netstandard2.0\Library.Services.dll
+C:\Users\Chaise\Desktop\Online Library\ProcessUploadData.Services\obj\Debug\netstandard2.0\Library.Services.pdb

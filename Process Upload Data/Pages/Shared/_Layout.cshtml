@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Online Library</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <i class="fa fa-book" style="font-size:30px;margin-bottom: 0.5em;color:white;margin-top: 0.5em;"></i>
+                <a class="navbar-brand" asp-area="" asp-page="/Index">Online Library</a>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            
+                            <a class="nav-link text-dark" asp-area="" asp-page="/CheckIn">
+                                <i class="fa fa-check-square" style="font-size:30px;margin-bottom: 0.5em;color:white;margin-top: 0.5em;margin-right:0.5em;"></i>
+                            Check In Book
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            
+                            <a class="nav-link text-dark" asp-area="" asp-page="/AddNewBook">
+                                <i class="fa fa-plus-circle" style="font-size:30px;margin-bottom: 0.5em;color:white;margin-top: 0.5em;margin-right:0.5em;"></i>
+                                Add New Book
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            
+                            <a class="nav-link text-dark" asp-area="" asp-page="/DisplayBooks">
+                                <i class="fa fa-list" style="font-size:30px;margin-bottom: 0.5em;color:white;margin-top: 0.5em;margin-right:0.5em;"></i>
+                                Display Books
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                           
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Account">
+                                <i class="fa fa-user" style="font-size:30px;margin-bottom: 0.5em;color:white;margin-top: 0.5em;margin-right:0.5em;"></i>
+                                Account
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                           
+                            <a class="nav-link text-dark" asp-area="" asp-page="/LogOut">
+                                <i class="fa fa-sign-out" style="font-size:30px;margin-bottom: 0.5em;color:white;margin-top: 0.5em;margin-right:0.5em;"></i>
+                                LogOut
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+    </nav>
+
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2021 - Online Library - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
+
+

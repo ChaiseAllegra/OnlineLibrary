@@ -1,0 +1,32 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+
+}
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/StyleSheet.css">
+</head>
+
+<div class="CenterContent">
+    <div class="text-center">
+        <i class="fa fa-book" style="font-size:100px;margin-bottom: 0.5em;color:white;margin-top: 0.5em;"></i>
+        <form method="post" cllass="mt-3" enctype="multipart/form-data">
+            <div class="col-sm-10">
+                <div class="TextBox">
+                    <input asp-for="USERNAME" type="text" placeholder="Username" class="InputBox" />
+                </div>
+                <div class="TextBox">
+                    <input asp-for="PASSWORD" type="text" placeholder="Password" class="InputBox" />
+                </div>
+            </div>
+            <div class="col-sm-10" style="width: 27%;">
+                <button type="submit" class="btn btn-primary">Login</button>
+                <a asp-page="/CreateProfile" class="btn btn-primary">Create A Profile</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
